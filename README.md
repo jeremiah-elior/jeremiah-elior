@@ -12,7 +12,7 @@
 
 I build and improve customer-facing e-commerce products, with a focus on Shopify Plus theme engineering, custom apps, cart and checkout experiences, API integrations, CRO, and storefront performance.
 
-My background combines hands-on development with e-commerce operations, so I approach technical work with both the customer journey and the commercial goal in mind. I use AI coding tools throughout development while reviewing, testing, and taking responsibility for every release.
+My background combines hands-on development with e-commerce operations, so I approach technical work with both the customer journey and the commercial goal in mind.
 
 ## What I work on
 
@@ -53,7 +53,5 @@ Worked across storefronts, ERP and CRM integrations, product-data workflows, ana
 ## Contact
 
 - **Location:** Berlin, Germany
-- **Work authorization:** EU Blue Card, authorized to work in Germany
-- **Availability:** Open to full-time, remote, hybrid, and contract opportunities
 - **LinkedIn:** [linkedin.com/in/jeremiah-elior](https://www.linkedin.com/in/jeremiah-elior/)
 - **Email:** [heyelior@gmail.com](mailto:heyelior@gmail.com)
