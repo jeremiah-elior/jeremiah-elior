@@ -10,15 +10,17 @@
 
 ## About
 
-I specialize in Shopify Plus storefronts and custom Shopify app development, including theme architecture, cart and checkout experiences, API integrations, CRO, and storefront performance.
+I build e-commerce platforms and mobile apps across Shopify Plus, Magento, React, and React Native. My work includes custom Shopify apps, storefront and theme development, cart and checkout flows, API integrations, CRO, performance, and supporting backend services.
 
-My background combines hands-on development with e-commerce operations, so I approach technical work with both the customer journey and the commercial goal in mind.
+My background combines hands-on full-stack development with e-commerce operations. This helps me build solutions that work well for customers and the teams running the business.
 
 ## What I work on
 
 - **Shopify Plus:** Liquid, Online Store 2.0, reusable theme architecture, sections, blocks, metafields, metaobjects, Shopify Functions, and Checkout UI Extensions
 - **Custom Shopify apps and integrations:** Node.js, Express, App Bridge, Admin API, Storefront API, GraphQL, REST, webhooks, and automation workflows
+- **Magento and WordPress:** Magento 1 and 2, PHP, MySQL, WordPress, WooCommerce, custom functionality, and platform integrations
 - **Frontend development:** JavaScript, TypeScript, React, Next.js, Hydrogen, Remix, Tailwind CSS, MUI, HTML, and CSS
+- **Mobile development:** React Native, Expo, mobile API integrations, authentication, and cross-platform app development
 - **Conversion and performance:** cart drawers, bundles, upsells, A/B testing, GA4, Core Web Vitals, accessibility, technical SEO, and JSON-LD
 
 ## Technology
@@ -31,6 +33,7 @@ My background combines hands-on development with e-commerce operations, so I app
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
