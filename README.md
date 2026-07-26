@@ -20,7 +20,6 @@ My background combines hands-on development with e-commerce operations, so I app
 - **Custom apps and integrations:** Node.js, Express, App Bridge, Admin API, Storefront API, GraphQL, REST, webhooks, and automation workflows
 - **Frontend development:** JavaScript, TypeScript, React, Next.js, Hydrogen, Remix, Tailwind CSS, MUI, HTML, and CSS
 - **Conversion and performance:** cart drawers, bundles, upsells, A/B testing, GA4, Core Web Vitals, accessibility, technical SEO, and JSON-LD
-- **AI-enabled development:** Cursor, Claude Code, ChatGPT, and Gemini for research, debugging, refactoring, testing, and internal tools
 
 ## Technology
 
