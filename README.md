@@ -10,14 +10,14 @@
 
 ## About
 
-I build and improve customer-facing e-commerce products, with a focus on Shopify Plus theme engineering, custom apps, cart and checkout experiences, API integrations, CRO, and storefront performance.
+I specialize in Shopify Plus storefronts and custom Shopify app development, including theme architecture, cart and checkout experiences, API integrations, CRO, and storefront performance.
 
 My background combines hands-on development with e-commerce operations, so I approach technical work with both the customer journey and the commercial goal in mind.
 
 ## What I work on
 
 - **Shopify Plus:** Liquid, Online Store 2.0, reusable theme architecture, sections, blocks, metafields, metaobjects, Shopify Functions, and Checkout UI Extensions
-- **Custom apps and integrations:** Node.js, Express, App Bridge, Admin API, Storefront API, GraphQL, REST, webhooks, and automation workflows
+- **Custom Shopify apps and integrations:** Node.js, Express, App Bridge, Admin API, Storefront API, GraphQL, REST, webhooks, and automation workflows
 - **Frontend development:** JavaScript, TypeScript, React, Next.js, Hydrogen, Remix, Tailwind CSS, MUI, HTML, and CSS
 - **Conversion and performance:** cart drawers, bundles, upsells, A/B testing, GA4, Core Web Vitals, accessibility, technical SEO, and JSON-LD
 
