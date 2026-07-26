@@ -1,6 +1,6 @@
 <h1 align="center">Jeremiah Elior</h1>
 
-<p align="center"><strong>Shopify Plus Developer | Full-Stack E-commerce | CRO & AI Automation</strong></p>
+<p align="center"><strong>Shopify Plus Developer | Full-Stack Developer | CRO & AI Automation</strong></p>
 <p align="center">Berlin, Germany · 10+ years in e-commerce and web development</p>
 
 <p align="center">
